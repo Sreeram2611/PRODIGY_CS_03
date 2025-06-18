@@ -1,6 +1,7 @@
+# Task - 3
 ## 🔐 Password Complexity Checker
 
-Welcome to **Sreeram's Password Complexity Checker** – a simple Python tool that evaluates the strength of a password based on common security criteria like length, use of uppercase/lowercase letters, digits, and special characters.
+Welcome to **Password Complexity Checker** – a simple Python tool that evaluates the strength of a password based on common security criteria like length, use of uppercase/lowercase letters, digits, and special characters.
 
 ---
 
